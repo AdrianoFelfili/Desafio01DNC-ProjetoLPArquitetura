@@ -103,3 +103,13 @@
     transition: 0.5s;
     box-shadow:  10px 10px 10px  #94929262;
 }
+#imgAgradecimento{
+    width: 20%;
+    height: 20%; 
+}
+#agradecimento{
+    display: block;
+    text-align: center;
+    
+    
+}
